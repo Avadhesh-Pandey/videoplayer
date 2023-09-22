@@ -1,6 +1,19 @@
-# videoplayer
+# Video Player
 
-Video player with auto play
+Video player with auto play and network error properly handeled
+This is a sample project using video_player& chewie library
+
+## Packages
+
+| Purpose                                    | Library               |
+| ---------                                  | -------               |
+| Playing video                              |  video_player         |
+| Video Player UI                            |  chewie               |
+| Tracking network connectivity drops        |  connectivity_plus    |
+
+## Screens
+
+- Home
 
 ## Getting Started
 
